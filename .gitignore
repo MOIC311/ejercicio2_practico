@@ -1,0 +1,57 @@
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.history
+.svn/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+.packages
+
+# Flutter generated files
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.widget_preview/
+
+# Android build artifacts
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# Android generated files
+/android/local.properties
+/android/.gradle/
+/android/captures/
+
+# Obfuscation and symbolication
+app.*.symbols
+app.*.map.json
+
+# Platforms not needed for this practice
+/ios/
+/linux/
+/windows/
+/macos/
+/web/
+
+# Temporary files
+*.tmp
+*.bak
